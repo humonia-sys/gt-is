@@ -1,0 +1,1 @@
+game.setLocalization("zh_cn","tile.botania:dreamwood5.name","富含魔力的活木");

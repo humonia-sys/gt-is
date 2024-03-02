@@ -1,0 +1,1 @@
+mods.jei.JEI.addDescription(<modularmachinery:advanced_orechid_controller>,"第一层的除控制器以外的仓室可用活木替代");

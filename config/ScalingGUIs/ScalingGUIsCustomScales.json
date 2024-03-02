@@ -1,0 +1,29 @@
+{
+  "guiScale": 3,
+  "hudScale": 3,
+  "tooltipScale": 3,
+  "customIndividualGuiScales": {},
+  "customGroupGuiScales": {},
+  "loggedGuiClassNames": [
+    "net.minecraft.client.gui.GuiCreateWorld",
+    "net.minecraft.client.gui.GuiMainMenu",
+    "net.minecraft.client.gui.GuiWorldSelection",
+    "net.minecraft.client.gui.GuiScreenWorking",
+    "net.minecraft.client.gui.GuiDownloadTerrain",
+    "com.glodblock.github.client.client.gui.GuiWrapInterface",
+    "appeng.client.gui.implementations.GuiInterfacePatt",
+    "appeng.client.gui.implementations.GuiInterfacePer",
+    "appeng.client.gui.implementations.GuiInterfaceImp",
+    "appeng.client.gui.implementations.GuiInterfaceAdv",
+    "mezz.jei.gui.recipes.RecipesGui",
+    "net.minecraft.client.gui.inventory.GuiInventory",
+    "net.minecraft.client.gui.inventory.GuiContainerCreative",
+    "net.minecraft.client.gui.GuiChat",
+    "net.minecraft.client.gui.GuiIngameMenu",
+    "net.minecraft.client.gui.GuiOptions",
+    "net.minecraft.client.gui.GuiVideoSettings",
+    "spazley.scalingguis.gui.guiconfig.GuiConfigSG"
+  ],
+  "blacklistGuiClassNames": [],
+  "dynamicGuiScales": []
+}
